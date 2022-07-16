@@ -1,7 +1,5 @@
 from collections import OrderedDict
 
-from pip import main
-
 def find_max_letter_count(word):
     counts = OrderedDict()
     word = word.lower()
