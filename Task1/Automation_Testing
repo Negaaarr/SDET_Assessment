@@ -1,0 +1,11 @@
+- Can the user log in with a valid email id and password?
+- What happens when an invalid email id and valid password?
+- Can a customer add a product to their cart
+- In cart page, can user increase item's quantity?
+- In cart page, can user descrease item's quantity?
+- In card page, can user delete an item?
+- In checkout page, what happen if use enter an invalid email?
+- What happens when submit an checkout with an invalid card number?
+- Can user submit an checkout when customer did not fill all required boxes?
+- Can user see the order number when user submit an order?
+ 
